@@ -1,6 +1,11 @@
 Dear Client,
 
-I need to give you more background and context to what we have been offering and what we are proposing.
+I need to give you more background and context as to what we have been offering and what we are proposing. A shift to new site infrastructure can, and probably should, prompt some questions. I think the benefits can be better understood by breaking it down into three sections: what it will look like to you, benefits to the new infrastructure, and reasons why drupal might not be the most appropriate choice for your site.
+___
+First, I'd like to explain how the new system will work. I will begin with the most feature-rich. Rather than logging into a website, you will install a cloud based application that will allow you to both edit your existing content and create new content. This will look like any other folder on your computer, except that the content will be available on any device, including computers, iPads, or your phone. While we are promoting a simplified markdown editor, you can create and edit content in any editor of your choice. There are many applications, and we are happy to recommend a few options. I will expand on different formats for editing content in the next section. When you have finished editing or creating your file, you save it, just like any other file. What happens next is exciting. The revisions are sent to a repository where *all* of your revisions are stored. From here, your website is reconstructed and published to your hosting company. This all happens transparently and quickly. That's it. When you log on to another device, your new files will be there waiting for you.
+___
+
+
 
 Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each component requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
 
