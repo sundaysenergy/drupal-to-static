@@ -2,7 +2,7 @@ Dear Client,
 
 I need to give you more background and context to what we have been offering and what we are proposing.
 
-Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each componet requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
+Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each component requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
 
 Simply stated, it is not possible for us to stay in business maintaining Drupal sites and the related hosting infrastructure for the rates you and many others were paying.
 
