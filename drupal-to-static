@@ -1,8 +1,10 @@
 Hi David,
 
-It looks like I'll need to give a little more information on the new setup (and why it is better for a site like yours)...
+I need to give you more background and context to what we have been offering and what we are proposing.
 
-We are starting to offer an alternative to Drupal because in most cases the community and content management strengths of Drupal really aren't needed. Using Drupal introduces a lot of complexity in terms of hosting and security, and many people find it confusing to use.
+Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each componet requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as a host of many websites that share resources. We do our best to isolate sites from one another, but again that adds additional complexity to the overall offering.
+
+Simply stated, it is not possible for us to stay in business hosting Drupal sites for the rates you were paying.
 
 If you'd like a fuller look at our thinking here, see: http://www.sundaysenergy.com/static/cape
 The bottom line is it's expensive to host and maintain Drupal sites correctly. And so for clients who don't need Drupal, we want to offer a less expensive option (which is actually better in many ways).
