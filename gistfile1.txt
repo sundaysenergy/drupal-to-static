@@ -1,0 +1,22 @@
+Hi David,
+
+It looks like I'll need to give a little more information on the new setup (and why it is better for a site like yours)...
+
+We are starting to offer an alternative to Drupal because in most cases the community and content management strengths of Drupal really aren't needed. Using Drupal introduces a lot of complexity in terms of hosting and security, and many people find it confusing to use.
+
+If you'd like a fuller look at our thinking here, see: http://www.sundaysenergy.com/static/cape
+The bottom line is it's expensive to host and maintain Drupal sites correctly. And so for clients who don't need Drupal, we want to offer a less expensive option (which is actually better in many ways).
+
+So going forward, the option to stay at the same cost is not possible. We are discontinuing the hosting plan you were on, and now the cheapest option will be $250 / year.  Therefore, it will be more expensive for you if we kept your site in Drupal.  
+
+The new static site you now have allows the least expensive hosting option, which is either $60 or $120 per year depending on which type of content managing experience you wish to have.
+
+The $60 / year option is geared towards people who don't need to make many content changes, or who have a lot of experience with web technology. These users don't mind installing new applications and using the command line on their computers for a few things. That's why it's called (at least for now) the "power user" option. As I said, very few clients will fit this...
+
+So the $120 / year option is what we're recommending for you. It will be easy to manage content through using the Dropbox web service (https://www.dropbox.com/). This will also have an advantage of being easier to use than the rich-text editor in your old site. Instead, now you will use an emerging new standard called Markdown files.
+
+These are like plain text files (with some easy ways to add formatting), and you need not be logged into your website to work with content. There are lots of good reasons to go this route, and I really encourage you to read the link above for the full picture: http://www.sundaysenergy.com/static/cape
+
+We are excited about offering this option to clients, and I think once you get adjusted to the concept and how to use it you'll like it more than Drupal.  Plus, as I said, it *is* the least expensive option now (and provides a better overall website for integral-therapy.com).
+
+Let me know if you have any further questions about this.  If not, we can move forward with getting you set up to make content changes and getting this new site live on your domain.
