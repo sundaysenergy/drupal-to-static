@@ -14,33 +14,33 @@ To accomplish this, we must maintain a large stack of specialized software. Each
 
 Simply stated - for the rates we have been charging, there is no additional allowance for maintaining the software. Sites have been allowed to linger on old software, yielding unpredictable results and potential security breaches.
 
-Consider that our upgrade path to the *newest Drupal 5* is more expensive than converting to a cloud based infrastructure. Also, consider that that is only the latest version of software that is no longer supported. It would be akin to saying, *I've patched my Windows 98 operating system with all of the latest features and bug fixes*. Eventually, it's going to become unreliable or dangerous for both of us.
+Consider that our upgrade path to the *newest Drupal 5* is more expensive than converting to a cloud-based infrastructure. Also, consider that this is only the latest version of software that is no longer supported. It would be akin to saying, *I've patched my Windows 98 operating system with all of the latest features and bug fixes*. Eventually, it's going to become unreliable or dangerous anyway.
 
-Upgrading to Drupal 7 requires adapting your old site to a relatively rigid framework, resulting in either a large bill or aesthetic compromises. Furthermore, to avoid similar situations in the future, a more expensive maintenance package must be implemented to ensure that the site is running on the latest software.
+On the other hand, upgrading to Drupal 7 requires adapting your old site to a relatively rigid framework, resulting in either a large bill or aesthetic compromises. Furthermore, to avoid similar update headaches in the future, a more expensive maintenance package must be implemented to ensure that the site continues running on the latest software.
 
 Since Drupal is modular, any one of the twenty or so building blocks can be updated or no longer maintained on any given day. This requires constant maintenance, supervision, and re-implementation of given features.
 
-So, why not Drupal? It's a great solution for a site that requires complex permissions, many users with different "roles", and is frequently updated. However, for a smaller site, there are simply better, more appropriately scaled solutions.
+So, why not Drupal? It's a great solution for sites that require complex permissions, many users with different "roles", and frequent content changes. However, for a smaller site, there are simply better, more appropriately scaled solutions.
 
 ___
 
 ### What we are proposing
 
-Our answer is a service that takes a folder of text files and images, and dynamically turns this into a website. The website is rebuilt every time the content changes *instead* of every time someone accesses a page. This enables us to make every part of the website static.
+Our answer is a service that takes a folder of text files and images, and dynamically turns this into a website. The website is rebuilt every time the content changes, *instead* of every time someone accesses a page. This enables us to make every part of the website static.
 
 In this way, we are able to push the entire site out to a global Content Delivery Network (CDN). This puts your site on dozens of servers across the world instead of a single set of servers. Combined with DNS, the CDN is all that is required to host the website.
 
-We feel like this is an awesome offering, and a great alternative for websites that don't really need Drupal. We are including enterprise DNS (using Dyn.com), a compiler server that turns text files into websites, and we're pushing the entire website to a CDN for $6/mo or $60/yr.
+We feel like this is an awesome offering and alternative for websites that don't really need Drupal. We are including enterprise DNS (using Dyn.com), a compiler server that turns text files into websites, and we're pushing the entire website to a CDN for $6/mo or $60/yr.
 
 ___
 
 ### What it will look like to you
 
-There are a few possible scenarios, but we will explain how this will work using most feature-rich option. Rather than logging into a website, you will install a cloud-based application that will allow you to both edit your existing content and create new content.
+There are a few possible scenarios, but we will explain this using the most feature-rich option. Rather than logging into a website, you will install a cloud-based application that allows you to both edit your existing content and create new content.
 
-This will look like any other folder on your computer, except that the content will be available on any device, including computers, iPads, or a smart phone.
+This will look like any other folder on your computer, except that the content will be available on any device, including computers, iPads, and smart phones.
 
-Because we are promoting a simplified Markdown editor, you can create and edit content in any editor of your choice. There are many applications, and we are happy to recommend a few options. I will expand on different formats for editing content in the next section.
+Because we are promoting a simplified Markdown editor, you can also create and edit content in any editor of your choice. There are many applications, and we are happy to recommend a few options. I will expand on different formats for editing content below.
 
 When you have finished editing or creating your file, you save it just like any other file. What happens next is exciting. The revisions are sent to a repository where *all* of your revisions are stored. From here, your website is reconstructed and published to your hosting company.
 
