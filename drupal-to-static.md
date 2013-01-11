@@ -10,7 +10,7 @@ ___
 
 Drupal has been a great tool for us, and enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites - dynamic in the sense that each time a person views a page, software on a server rebuilds the page specific to that user at that time.
 
-To accomplish this, we must maintain a large stack of specialized software. Each component requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing, they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
+To accomplish this, we must maintain a large stack of specialized software. Each component requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing, they are vulnerable to attack by spammers and hackers. This creates a danger to you as the site owner, and a liability to us as the web host.
 
 Simply stated - for the rates we have been charging, there is no additional allowance for maintaining the software. Sites have been allowed to linger on old software, yielding unpredictable results and potential security breaches.
 
