@@ -64,7 +64,7 @@ ___
 
 ### Expense breakdown
 
-Since we are talking about hosting expenses I'd like to walk through our pricing structure.
+Since we are talking about hosting expenses, I'd like to walk through our pricing structure (and how it impacts Drupal hosting).
 
 * DNS hosting is an undervalued service that serves the sole function of pointing your purchased domain names to a server on the internet. There are many free services available, but you get what you pay for. Low cost services often cause problems at the most inconvenient times, and then we get blamed for the outage. "Hey, my website is down. You are hosting my site, fix it." Well, it might be that your domain name isn't properly sending traffic to the right place, or any place. It's just not worth it for us to answer those phone calls and emails for something that isn't our fault and we have no control over. For that reason, we have standardized on using the most reliable DNS service in the industry. It's called Dyn, and is the same one used by sites like Amazon and Twitter. In the 11 years Dyn has been in business, they have not had any downtime. That's a mammoth statement for any web service. We charge $3/mo for this service. Purchasing directly from Dyn, it is $30/mo http://dyn.com/dns/dynect-managed-dns-lite . This is technically an optional service since you could choose to manage your DNS elsewhere, but we would not be able to guarantee your site's availability if you did.
 
