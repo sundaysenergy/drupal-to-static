@@ -30,9 +30,9 @@ ___
 
 Our answer is a service that takes a folder of text files and images, and dynamically turns them into a website. The website is rebuilt every time the content changes, *instead* of every time someone accesses a page. This enables us to make every part of the website static.
 
-In this way, we are able to push the entire site out to a global Content Delivery Network (CDN). This puts your site on dozens of servers (across the world) instead of a single set of servers in a single location. Combined with DNS, the CDN is all that is required to host the website. No databases and no server scripts.
+In this way, we are able to push the entire site out to a global Content Delivery Network (CDN). This puts your site on dozens of servers (across the world) instead of a single set of servers in a single location. Combined with DNS, the CDN is all that is required to host the website. There are no databases and server scripts adding complexity where it's not needed.
 
-We feel like this is an awesome offering and alternative for websites that don't really need Drupal. We are including enterprise DNS (using Dyn.com), a compiler server that turns text files into websites, and we're pushing the entire website to a CDN for $6/mo or $60/yr.
+We feel like this is an awesome offering and alternative for websites that don't really need Drupal. We are including enterprise DNS (using Dyn.com), a compiler server that turns text files into websites, and we're pushing the entire website to a CDN for $12/mo or $120/yr (and $6/mo or $60/yr for the completely web-based option).
 
 ___
 
