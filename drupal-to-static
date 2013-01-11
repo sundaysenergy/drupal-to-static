@@ -1,13 +1,17 @@
-Hi David,
+Dear Client,
 
 I need to give you more background and context to what we have been offering and what we are proposing.
 
-Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each componet requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as a host of many websites that share resources. We do our best to isolate sites from one another, but again that adds additional complexity to the overall offering.
+Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each componet requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing they are vulnerable to attack by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
 
-Simply stated, it is not possible for us to stay in business hosting Drupal sites for the rates you were paying.
+Simply stated, it is not possible for us to stay in business maintaining Drupal sites and the related hosting infrastructure for the rates you and many others were paying.
 
-If you'd like a fuller look at our thinking here, see: http://www.sundaysenergy.com/static/cape
-The bottom line is it's expensive to host and maintain Drupal sites correctly. And so for clients who don't need Drupal, we want to offer a less expensive option (which is actually better in many ways).
+Since we are talking about hosting expenses I'd like to talk through our pricing structure.
+
+* Custom domain names are each $13 per year. This is just a couple dollars more than the right-wing, womanizing GoDaddy service and provides us easy access to make changes when needed.
+* DNS hosting is an undervalued service that serves the sole function of pointing your custom domain names to a server on the internet. There are many free services available, but you get what you pay for. Low cost services often cause problems at the most inconveient times and then we get blamed for the outage. "Hey, my website is down. You are hosting my site, fix it." Well, it might be that your domain name isn't properly sending traffic to the right place, or any place. It's just not worth it for us to have to answer those phone calls and emails for something that isn't our fault and we have no control over. For that reason we have standardized on using the most reliable DNS service in the industry. It's the same one used by sites like Amazon and Twitter. In the 11 years Dyn has been in business they have not had any downtime. That's a mamoth statement for any web service. We charge $3/mo for this service. Direct from Dyn it is $30/mo http://dyn.com/dns/dynect-managed-dns-lite This is technically an optional service since you could choose to manage your DNS elsewhere but we would not be able to guarantee your sites availability if you did.
+* Our Drupal hosting stack consists of many layers. Firewalls, load ballancer, front-end cache, PHP Opt-Code caching, performance optimized versions of PHP, MySQL, and Drupal. Combined with a control panel for managing installations, this sits on redundent servers that use a hybrid of Solid State drives (SSD) and 15K RPM SAS drives.
+* Content Delivery Network.
 
 So going forward, the option to stay at the same cost is not possible. We are discontinuing the hosting plan you were on, and now the cheapest option will be $250 / year.  Therefore, it will be more expensive for you if we kept your site in Drupal.  
 
