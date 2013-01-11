@@ -12,11 +12,13 @@ Drupal has been a great tool for us, and enabled us to build some really powerfu
 
 To accomplish this, we must maintain a large stack of specialized software. Each component requires a significant amount of effort to keep performant and secure. Because Drupal sites are a living thing, they are vulnerable to attack by spammers and hackers. This creates a danger to you as the site owner, and a liability to us as the web host.
 
-Simply stated - for the rates we have been charging, there is no additional allowance for maintaining the software. Sites have been allowed to linger on old software, yielding unpredictable results and potential security breaches.
+Simply stated - for the rates we have been charging, there is no allowance for maintaining the software. Sites have been allowed to linger on old software, yielding increased load on teh servers and exposing potential security issues and opportunities for spam bots.
 
-Consider that our upgrade path to the *newest Drupal 5* is more expensive than converting to a cloud-based infrastructure. Also, consider that this is only the latest version of software that is no longer supported. It would be akin to saying, *I've patched my Windows 98 operating system with all of the latest features and bug fixes*. Eventually, it's going to become unreliable or dangerous anyway.
+#### What if I upgrade?
 
-On the other hand, upgrading to Drupal 7 requires adapting your old site to a relatively rigid framework, resulting in either a large bill or aesthetic compromises. Furthermore, to avoid similar update headaches in the future, a more expensive maintenance package must be implemented to ensure that the site continues running on the latest software.
+Upgrading to the latest *Drupal 5* is only the latest version of software that is no longer supported. It would be akin to saying, *I've patched my Windows 98 operating system with all of the latest features and bug fixes*. Eventually, it's going to become unreliable or dangerous anyway. Furthermore, the hosting cost per site increases as the specific server required to run the old software loses customers.
+
+Upgrading to *Drupal 7* requires adapting your old site to a relatively rigid framework, resulting in either a large bill or aesthetic compromises. Furthermore, to avoid similar update headaches in the future, a more expensive maintenance package must be implemented to ensure that the site continues running on the latest software.
 
 Since Drupal is modular, any one of the twenty or so building blocks can be updated or no longer maintained on any given day. This requires constant maintenance, supervision, and re-implementation of given features.
 
