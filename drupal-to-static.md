@@ -2,11 +2,13 @@ Dear Client,
 
 I need to give you more background and context as to what we have been offering and what we are proposing. A shift to new site infrastructure can, and probably should, prompt some questions. I think the benefits can be better understood by breaking it down into three sections: what it will look like to you, benefits to the new infrastructure, and reasons why drupal might not be the most appropriate choice for your site.
 ___
-###What it will look like to you
+
+### What it will look like to you
 
 First, I'd like to explain how the new system will work. I will begin by describing the most feature-rich implementation. Rather than logging into a website, you will install a cloud based application that will allow you to both edit your existing content and create new content. This will look like any other folder on your computer, except that the content will be available on any device, including computers, iPads, or your phone. While we are promoting a simplified markdown editor, you can create and edit content in any editor of your choice. There are many applications, and we are happy to recommend a few options. I will expand on different formats for editing content in the next section. When you have finished editing or creating your file, you save it, just like any other file. What happens next is exciting. The revisions are sent to a repository where *all* of your revisions are stored. From here, your website is reconstructed and published to your hosting company. This all happens transparently and quickly. That's it. When you log on to another device, your new files will be there waiting for you.
 ___
-###Benefits to the new system
+
+### Benefits to the new system
 
 I alluded to some of the benefits in the first paragraph, but the following is a more complete list:
 
@@ -14,8 +16,10 @@ I alluded to some of the benefits in the first paragraph, but the following is a
 - Reliability and redundancy. Isolating the generation of content allows us to host your site on a server that does only one thing, and it does it extraordinarily well. All of your site revisions are stored at one of the two largest revision management websites on the Internet and will be available to you, should you need them. 
 - Flexibility. You can use any editor, on any device. Want to edit drupal content on an iPad? It's not going to work very well. However, cloud integration and one of several available editors mean that you can easily work on the go and have your changes waiting for you on your home computer, in your office, or wherever else you might want to access them.
 - Cost. Costs are consistent and features can be added quickly and predictably. The expense to maintain the software that generates your site is eliminated. New layouts can easily be produced for the entire site or individual pages. With content management systems, there are two approaches to billing--pay a lot of money each month to keep things updated, or charge very little, but allow software to become so old and obsolete that eventually there is either a dramatic expense to convert the entire site, or it catastrophically breaks. Under the new system, there won't be any surprises.
+
 ___
-###Why not drupal?
+
+### Why not drupal?
 
 Drupal has been a great tool for us. It's enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites. They are dynamic in the sense that each time a person views a page software on a server rebuilds the page specific to that user at that time. To accomplish this we must maintain a large stack of specialized software. Each component requires a significant amount of effort to maintain performance and security. Because Drupal sites are a living thing they are vulnerable to attacks by spammers and hackers. This creates a liability to you as the site owner, and to us as the web host.
 
@@ -23,7 +27,8 @@ Simply stated, for the rates that we have been charging, there is no additional 
 
 So, why not Drupal? It's a great solution for a site that requires complex permissions, many users with different "roles", and frequently updated. However, for a smaller site, there are simply better, more appropriately scaled solutions.
 ___
-###Expense breakdown
+
+### Expense breakdown
 
 Since we are talking about hosting expenses I'd like to talk through our pricing structure.
 
