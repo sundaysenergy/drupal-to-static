@@ -2,7 +2,7 @@ Dear Client,
 
 I want to give you more background and context to what we have been offering, and what we are proposing for the future.
 
-Shifting to a new site infrastructure can certainly prompt some questions. I think the benefits can be better understood by breaking it down into four sections: Reasons why Drupal may not be the best option now, what we are proposing, what it will look like to you, and the benefits of this new setup.
+Shifting to a new site infrastructure can certainly prompt some questions. I think the benefits can be better understood by breaking it down into four sections: Reasons why Drupal may not be the best option now, what we are proposing, what it will look like to you, and the benefits of the new system.
 
 ___
 
