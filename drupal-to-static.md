@@ -4,6 +4,8 @@ I want to give you more background and context to what we have been offering, an
 
 Shifting to a new site infrastructure can certainly prompt some questions. I think the benefits can be better understood by breaking it down into four sections: Reasons why Drupal may not be the best option now, what we are proposing, what it will look like to you, and the benefits of this new setup.
 
+___
+
 ### First, why not Drupal?
 
 Drupal has been a great tool for us, and enabled us to build some really powerful web applications. However, using Drupal for a site like yours is a bit like trying to hang a picture frame with a sledge hammer and railroad spike. Drupal creates "dynamic" sites - dynamic in the sense that each time a person views a page, software on a server rebuilds the page specific to that user at that time.
