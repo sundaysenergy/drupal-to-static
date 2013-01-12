@@ -31,7 +31,7 @@ Up until recently our least expensive Drupal hosting package was $75/yr. It incl
 * Access to modules and themes via FTP with TLS/SSL.
 * Aegir management interface on request.
 
-No domain name, no fancy DNS hosting or CDN. To keep your site safe we maintain firewalls and security software. To keep it fast we manage load balancers, front-end caches, PHP Opt-Code caches, along with performance optimized versions of PHP, MySQL.
+No domain name, no fancy DNS hosting or CDN. To keep your site safe we maintain firewalls and security software. To keep it fast we manage load balancers, front-end caches, PHP Opt-Code caches, along with performance optimized versions of PHP and MySQL.
 
 
 #### Maintenance Costs
